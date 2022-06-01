@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dreamy-hamster-04ecb3.netlify.app"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
