@@ -1,0 +1,58 @@
+---
+enable: true
+topTitle: My Qualifications
+title: >
+  ## My Expertises
+
+  I trained at King’s College, London, Institute of Psychiatry and qualified in 1991.
+  My first degree was from Oxford University where I graduated with a masters degree in Experimental Psychology. 
+
+
+tab1Name: Education & Expereince
+tab2Name: Qualifications
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### University of Oxford
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 19XX-19XX
+  - content: >
+      #### Master XXX
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+
+experience:
+  - content: >
+      #### Certified 
+      
+      Registered with The Health Professions Council ( PYLO5098 )
+    time: 2016-Present
+  - content: >
+      #### Aperture Science 
+
+      British Psychological Society Chartered,
+    time: 2010-2016
+  - content: >
+      #### ACME Inc. 
+
+      Clinical Psychology division member
+    time: 2005-2010
+  - content: >
+      #### LexCorp 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2001-2005
