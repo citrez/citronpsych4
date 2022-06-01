@@ -5,7 +5,7 @@ theme = "portio"
 title = "Portio"
 # Main Menu
 [[menu.main]]
-name = "Home"
+name = "About me"
 url = "#home"
 weight = 1
 # [[menu.main]]
@@ -29,7 +29,7 @@ weight = 5
 # url = "#skills"
 # weight = 6
 [[menu.main]]
-name = "Media"
+name = "Media work"
 url = "#blog"
 weight = 7
 # [[menu.main]]
