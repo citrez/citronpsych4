@@ -10,13 +10,14 @@ service:
   - content: >
       #### Court work
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I conduct psychological assessment for many purposes where psychological investigation is required.
+      This includes capacity, employment, personal injury, medical negligence, asylum, immigration, human rights and criminal cases.
     image: images/service/ui-ux.svg
   - content: >
       #### Media and communication 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      As a member of The British Psychological Society media division I provide input to radio, magazines, 
+      newspapers and television. 
+      I also provide talks and workshops in a range of settings and welcome enquiries.  
     image: images/service/web.svg
 
