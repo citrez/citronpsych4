@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
-theme = "portio-hugo"
+theme = "portio"
 title = "Portio"
 # Main Menu
 [[menu.main]]
