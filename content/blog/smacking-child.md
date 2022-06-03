@@ -1,7 +1,7 @@
 ---
 title: "How harmful is smacking your child?"
 date: 2020-07-13T13:06:26+06:00
-featureImage: images/allpost/allPost-2.jpg
+featureImage: images/allpost/allPost-12.jpeg
 postImage: images/single-blog/feature-image.jpg
 tags: mobile
 categories: documentation

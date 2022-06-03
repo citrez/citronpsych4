@@ -1,7 +1,7 @@
 ---
 title: "Bringing up boys to be good men"
 date: 2020-07-13T12:49:27.000+06:00
-featureImage: images/allpost/allPost-8.jpg
+featureImage: images/allpost/allPost-13.jpeg
 postImage: images/single-blog/feature-image.jpg
 tags: child-raising
 # categories: documentation

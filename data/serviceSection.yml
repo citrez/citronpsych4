@@ -5,11 +5,17 @@ title: >
   ## Clinical Services
 
   
-  I offer a holistic and non- judgemental approach with clients , drawing upon, 
-  but not relying on, cognitive behavioural therapy. 
+  I offer a holistic and non- judgemental approach with clients , drawing upon cognitive behavioural therapy. 
   I help clients of all ages to identify and change patterns of behaviour that 
   they do not find useful or promoting of their psychological well being. 
 service:
+  - content: >
+      #### 1-1 consultations
+
+      As a member of The British Psychological Society media division I provide input to radio, magazines, 
+      newspapers and television. 
+      I also provide talks and workshops in a range of settings and welcome enquiries.  
+    image: images/service/friend.png
   - content: >
       #### Court work
 
@@ -17,7 +23,7 @@ service:
       This includes capacity, employment, personal injury, medical negligence, asylum, immigration, human rights and criminal cases.
     image: images/service/gavel.png
   - content: >
-      #### Media and communication 
+      #### Media & communication 
 
       As a member of The British Psychological Society media division I provide input to radio, magazines, 
       newspapers and television. 

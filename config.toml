@@ -65,21 +65,21 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/EC_black.png"
 
 [params.address]
-address = "Cheyne walk, London, NW4."
+address = "Cheyne walk, London, NW4"
 email = "citronpysch@gmail.com"
-openingHours = "Open from 9am to 5pm (close over the weekend)"
-phone = "+(44) 7960 085 010"
+openingHours = "Open from 9am to 5pm (closed over the weekend)"
+phone = "+(44) 7903 169 162"
 
-# [params.map]
-# APIkey = "YOUR GOOGLE MAP API"
-# latitude = "23.7783741"
-# longitude = "90.3746808"
-# pinImage = "images/pin.png"
+[params.map]
+APIkey = "AIzaSyBMVpBxblzqRkQ5dek-28Dvy_AfeHsfOBM"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/emma-citron-34239526/"
 weight = 2
 [[params.social]]
 icon = "fa-pinterest-square"

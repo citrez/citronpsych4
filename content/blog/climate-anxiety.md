@@ -1,7 +1,7 @@
 ---
 title: "Climate anxiety"
 date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-3.jpg
+featureImage: images/allpost/allPost-11.jpeg
 postImage: images/single-blog/feature-image.jpg
 tags: website
 categories: documentation
