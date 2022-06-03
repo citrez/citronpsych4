@@ -4,20 +4,23 @@ topTitle: Working Area
 title: >
   ## Clinical Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  
+  I offer a holistic and non- judgemental approach with clients , drawing upon, 
+  but not relying on, cognitive behavioural therapy. 
+  I help clients of all ages to identify and change patterns of behaviour that 
+  they do not find useful or promoting of their psychological well being. 
 service:
   - content: >
       #### Court work
 
       I conduct psychological assessment for many purposes where psychological investigation is required.
       This includes capacity, employment, personal injury, medical negligence, asylum, immigration, human rights and criminal cases.
-    image: images/service/ui-ux.svg
+    image: images/service/gavel.png
   - content: >
       #### Media and communication 
 
       As a member of The British Psychological Society media division I provide input to radio, magazines, 
       newspapers and television. 
       I also provide talks and workshops in a range of settings and welcome enquiries.  
-    image: images/service/web.svg
+    image: images/service/promotion.png
 
