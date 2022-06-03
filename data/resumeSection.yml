@@ -2,45 +2,48 @@
 enable: true
 topTitle: My Qualifications
 title: >
-  ## My Expertises
+  ## Education
 
   I trained at King’s College, London, Institute of Psychiatry and qualified in 1991.
   My first degree was from Oxford University where I graduated with a masters degree in Experimental Psychology. 
 
 
-tab1Name: Education & Expereince
-tab2Name: Qualifications
+tab1Name: Education & Experience
+tab2Name: Qualifications & Certificates
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
+      #### King's College London, Institute of Psychiatry
+
+      Training placements at the Royal Bethlam and Maudsley Hospital. 
+      Specialist placements within OCDs, eating disorders and with the sexual health and couples clinic. 
+      Master thesis in autism within Prof. Simon Baron-Cohen's team. 
+    time: 1989-1991
+
+  - content: >
       #### University of Oxford
 
-      I graduated with a masters degree in Experimental Psychology.
-    time: 19XX-19XX
-  - content: >
-      #### King's College London
+      I graduated with a masters degree in Experimental Psychology. 
+      Thesis on child development and modules in memory and learning, motivation, social psychology amoungst others. 
+    time: 1984-1987
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
   - content: >
-      #### Maughn hospital
+      #### Additional training
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Training in autism, trauma, suicide and self harm, anxiety and OCD as part of continual professional development.
+    time: 1995-Present
+
 
 experience:
   - content: >
-      #### Health Professions Council 
+      #### Qualifications and certificates
       
-      Registered with The Health Professions Council ( PYLO5098 )
-    time: 2016-Present
-  - content: >
-      #### Psychological Society
+      - Registered with The Health Professions Council ( PYLO5098 )  
+      - British Psychological Society Chartered
+    # time: 2016-Present
 
-      British Psychological Society Chartered,
-    time: 2010-2016
   - content: >
       #### Clinical Psychologist
 

@@ -62,7 +62,7 @@ contactLink = "contact"
 footerLogo = "images/contact/EC_white.png"
 formspreeURL = "https://formspree.io/f/mzbooqbp"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/EC_black.png"
+logo = "images/site-navigation/EC_black2.png"
 
 [params.address]
 address = "Cheyne walk, London, NW4"
@@ -81,11 +81,11 @@ phone = "+(44) 7903 169 162"
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/emma-citron-34239526/"
 weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
+# [[params.social]]
+# icon = "fa-pinterest-square"
+# url = "https://www.pinterest.com/"
+# weight = 3
+# [[params.social]]
+# icon = "fa-twitter-square"
+# url = "https://twitter.com/"
+# weight = 4
