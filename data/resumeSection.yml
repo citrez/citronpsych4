@@ -2,15 +2,14 @@
 enable: true
 topTitle: My Qualifications
 title: >
-  ## Education
+  ## Background
 
   I trained at King’s College, London, Institute of Psychiatry and qualified in 1991.
   My first degree was from Oxford University where I graduated with a masters degree in Experimental Psychology. 
 
-
 tab1Name: Education & Experience
 tab2Name: Qualifications & Certificates
-tab1Target: education
+tab1Target: education1
 tab2Target: experience
 
 education:
@@ -38,24 +37,16 @@ education:
 
 experience:
   - content: >
-      #### Qualifications and certificates
+      #### Qualifications and Certificates
       
-      - Registered with The Health Professions Council ( PYLO5098 )  
+      - Registered with The Health Professions Council (PYLO5098)
+      
       - British Psychological Society Chartered
-    # time: 2016-Present
 
-  - content: >
-      #### Clinical Psychologist
+      - Clinical Psychology division member
 
-      Clinical Psychology division member
-    time: 2005-2010
-  - content: >
-      #### Registered media provider/ expert witness
+      - Register of expert witnesses, BPS, Media provider, BPS.
 
-      Register of expert witnesses , BPS, Media provider, BPS.  Enhanced DBS checked.
-    time: 2001-2005
-  - content: >
-      #### DBS
+      - Enhanced DBS checked
+    time: 19XX-Present
 
-      Enhanced DBS checked.
-    time: 2001-2005

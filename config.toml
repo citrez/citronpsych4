@@ -38,10 +38,11 @@ weight = 7
 # weight = 8
 
 # Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
+
+# [[menu.sitemap]]
+# name = "About me"
+# url = "about"
+# weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
 url = "#"
@@ -50,10 +51,10 @@ weight = 2
 name = "Privacy & Policy"
 url = "#"
 weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
+# [[menu.sitemap]]
+# name = "Latest Article"
+# url = "#"
+# weight = 4
 
 [params]
 blogPageURL = "blog"
@@ -61,8 +62,8 @@ contactLink = "contact"
 # copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/EC_white2.png"
 formspreeURL = "https://formspree.io/f/mzbooqbp"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/EC_black2.png"
+# googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/EC_black4.png"
 
 [params.address]
 address = "Cheyne walk, London, NW4"
