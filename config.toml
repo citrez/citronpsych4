@@ -43,10 +43,10 @@ weight = 7
 # name = "About me"
 # url = "about"
 # weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
+# [[menu.sitemap]]
+# name = "Frequently Ask Question"
+# url = "#"
+# weight = 2
 [[menu.sitemap]]
 name = "Privacy & Policy"
 url = "#"
