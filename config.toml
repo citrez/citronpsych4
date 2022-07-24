@@ -66,7 +66,7 @@ formspreeURL = "https://formspree.io/f/mzbooqbp"
 logo = "images/site-navigation/EC_black4.png"
 
 [params.address]
-address = "Cheyne walk, London, NW4"
+address = "Cheyne Walk, London, NW4"
 email = "citronpsych@gmail.com"
 openingHours = "Open from 9:45am to 7:30pm (closed over the weekend)"
 phone = "+(44) 7903 169 162"
