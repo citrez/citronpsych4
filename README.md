@@ -1,6 +1,6 @@
 This is a simple website for my mothers psychology business. 
 
-See the website [here](https://dreamy-hamster-04ecb3.netlify.app/#home)
+See the website [here](https://citronpsychology.com/)
 
 - Form made and configured with [formspree](https://formspree.io/)
 - Icons found with [flaticon](https://www.flaticon.com/?sign-up=google)
