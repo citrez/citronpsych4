@@ -1,4 +1,4 @@
-This is a simple website for my mothers psychology business. 
+This is a simple website for my mother's psychology business. 
 
 See the website [here](https://citronpsychology.com/)
 
