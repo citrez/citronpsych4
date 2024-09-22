@@ -1,6 +1,6 @@
 This is a simple website for my mother's psychology business. 
 
-See the website [here](https://citronpsychology.com/)
+See the website [here](https://citronpsych.com/)
 
 - Form made and configured with [formspree](https://formspree.io/)
 - Icons found with [flaticon](https://www.flaticon.com/?sign-up=google)
