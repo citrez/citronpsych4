@@ -1,4 +1,4 @@
-baseURL = "https://citronpsychology.com"
+baseURL = "https://citronpsych.com"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
